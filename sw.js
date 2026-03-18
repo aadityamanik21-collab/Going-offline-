@@ -1,4 +1,5 @@
-const CACHE_NAME = 'zenith-immortal-v2'; // Upgraded to V2 to force an OS-level cache purge
+const CACHE_NAME = 'zenith-immortal-v3'; // Bumping this obliterates the old cache
+
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
